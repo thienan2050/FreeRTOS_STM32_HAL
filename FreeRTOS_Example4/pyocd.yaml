@@ -1,0 +1,5 @@
+pack:
+  - ../Keil.STM32F1xx_DFP.2.3.0.pack
+target_override:
+  stm32f103c8
+  
