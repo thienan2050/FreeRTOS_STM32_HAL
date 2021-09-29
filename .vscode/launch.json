@@ -8,7 +8,8 @@
             "name": "Cortex Debug",
             "cwd": "${workspaceRoot}",
             //"executable": "./FreeRTOS_Example0/build/FreeRTOS_Example0.elf",
-            "executable": "./FreeRTOS_Example1/build/FreeRTOS_Example1.elf",
+            //"executable": "./FreeRTOS_Example1/build/FreeRTOS_Example1.elf",
+            "executable": "./FreeRTOS_Example3/build/FreeRTOS_Example3.elf",
             "request": "launch",
             "type": "cortex-debug",
             "servertype": "pyocd"
